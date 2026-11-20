@@ -1,6 +1,6 @@
 {
   "name": "Gbox developement",
-  "image": "mcr.microsoft.com/devcontainers/base:ubuntu@sha256:36c0ae9fe6bfa914cf7eb05b08b09a3a31961dc76eed6fbb75179382c817582c",
+  "image": "mcr.microsoft.com/devcontainers/base:ubuntu@sha256:e15941f70f26542ef9b0ef4bb64f88b8ecdfe8c3372e730ab6e405792805e742",
 
 
   "customizations": {
